@@ -1,6 +1,6 @@
-Tutorial
+Hands-on Tutorial for 3DCityDB Beginners
 ==================================
-This 3DCityDB beginner tutorial gives a step-by-step instructions about the download and installation of the software, the import of CityGML datasets, the export and 3D visualization of 3D city models in a web browser. Please note that this tutorial does not provide an extensive explanation of the 3DCityDB sofware package itself. If you need more details about 3DCityDB, please refer to the [comprehensive technical documentation](https://github.com/3dcitydb/3dcitydb/tree/master/Documentation) instead. 
+This tutorial gives a step-by-step instructions about the download and installation of the software, the import of CityGML datasets, the export and 3D visualization of 3D city models in a web browser. Please note that this tutorial does not provide an extensive explanation of the 3DCityDB sofware package itself. If you need more details about 3DCityDB, please refer to the [comprehensive technical documentation](https://github.com/3dcitydb/3dcitydb/tree/master/Documentation) instead. 
 
 License
 -------
