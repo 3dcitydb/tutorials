@@ -2,6 +2,11 @@ Hands-on Tutorial for 3DCityDB Beginners
 ==================================
 This tutorial gives a step-by-step instructions about the download and installation of the software, the import of CityGML datasets, the export and 3D visualization of 3D city models in a web browser. Please note that this tutorial does not provide an extensive explanation of the 3DCityDB sofware package itself. If you need more details about 3DCityDB, please refer to the [comprehensive technical documentation](https://github.com/3dcitydb/3dcitydb/tree/master/Documentation) instead. 
 
+Copyright
+-----------------------------------
+
+Copyright © 2016-2017 [Chair of Geoinformatics, Technical University of Munich (TUMGI)](https://www.gis.bgu.tum.de/). All rights reserved.
+
 License
 -------
 This tutorial is licensed under the [ Creative Commons License CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode). According to CC BY-NC-SA 3.0 permission is granted to share this document, i.e. copy and redistribute the material in any medium or format, and to adapt it, i.e. remix, transform, and build upon the material under the following conditions:
@@ -10,11 +15,6 @@ This tutorial is licensed under the [ Creative Commons License CC BY-NC-SA 3.0](
 2. **NonCommercial** — You may not use the material for commercial purposes. 
 3. **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. 
 4. **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits. 
-
-Copyright
------------------------------------
-
-Copyright © 2016-2017 [Chair of Geoinformatics, Technical University of Munich (TUMGI)](https://www.gis.bgu.tum.de/). All rights reserved.
 
 Main authors
 -----------------------------------
