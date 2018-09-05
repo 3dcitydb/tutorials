@@ -7,6 +7,9 @@ If you need more details about 3DCityDB, please refer to the
 [comprehensive technical documentation](https://github.com/3dcitydb/3dcitydb/tree/master/Documentation) 
 instead. 
 
+The tutorial includes an explanation on the installation of PostgreSQL/PostGIS and on setting up the corresponding database accounts. 
+Please note that there also exists a simplified way of installation using the virtualization technology [Docker](https://www.docker.com/) and the [3DCityDB Docker images](https://github.com/tum-gis/3dcitydb-docker-postgis). 
+
 Structure
 -------
 <p align="center">
