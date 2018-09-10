@@ -30,6 +30,8 @@ This tutorial is licensed under the [ Creative Commons License CC BY-NC-SA 3.0](
 3. **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. 
 4. **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits. 
 
+A clarification concerning point 2: **non-commercial usage** means that this hands-on tutorial is not allowed to be used in a commercial training course on the 3DCityDB. It is, however, allowed to use this hands-on tutorial for learning about 3DCityDB within commercial companies or projects.
+
 Main authors
 -----------------------------------
 
