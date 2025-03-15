@@ -1,5 +1,13 @@
 Hands-on Tutorial for 3DCityDB Beginners
 ==================================
+
+> [!NOTE]
+> This repository hosts tutorials for the 3DCityDB v4. Although 3DCityDB v5 is now available, 3DCityDB v4
+> remains stable and operational. However, it is in **maintenance mode**, meaning no significant new features are
+> planned, though existing bugs will continue to be addressed. Development is now focused on 3DCityDB v5, and we recommend
+> upgrading to benefit from new features and improvements. Please refer to the [3DCityDB v5 user manual](https://3dcitydb.github.io/3dcitydb-mkdocs/)
+> for more information.
+
 This tutorial gives a step-by-step instructions about the download and installation of the software, 
 the import of CityGML datasets, the export and 3D visualization of 3D city models in a web browser. 
 Please note that this tutorial does not provide an extensive explanation of the 3DCityDB sofware package itself. 
